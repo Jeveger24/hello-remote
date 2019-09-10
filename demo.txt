@@ -1,1 +1,2 @@
 Here is some text we are adding into demo.txt.
+Here is another sentence of text to update our current demo.txt.
